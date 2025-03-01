@@ -1,4 +1,4 @@
-In order to use the script, you should have Python (made on 3.13.2) and pytubefix installed and ffmpeg source in the directory.
+In order to use the script, you should have Python (made on 3.13.2) and the pytubefix library installed, and ffmpeg source in the directory.
 - You can download ffmpeg from: https://www.ffmpeg.org/download.html, and simply extract the files to the program directory.
 
 
